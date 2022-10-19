@@ -2,7 +2,7 @@ import telebot
 import codeforces_api
 import datetime
 
-bot = telebot.TeleBot(token="5675536797:AAFu9OcFOFs9eidnyIemRQRjSTu5Syo0RPo")
+bot = telebot.TeleBot(token="KEY")
 code = codeforces_api.CodeforcesApi()
 
 
